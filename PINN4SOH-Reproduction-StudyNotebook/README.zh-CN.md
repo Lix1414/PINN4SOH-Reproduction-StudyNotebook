@@ -1,5 +1,7 @@
 # 仓库文件说明
 
+[English](README.md)
+
 本文档说明 `PINN4SOH-Reproduction-StudyNotebook` 仓库中各目录和主要文件的用途，帮助读者快速理解项目结构、代码调用关系和推荐阅读顺序。
 
 ## 1. 仓库定位
