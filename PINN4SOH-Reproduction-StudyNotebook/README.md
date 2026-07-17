@@ -1,5 +1,7 @@
 # Repository file guide
 
+[简体中文](README.zh-CN.md)
+
 This document explains the purpose of the main directories and files in `PINN4SOH-Reproduction-StudyNotebook`. It is intended to help readers understand the project layout, module relationships, and recommended learning path.
 
 ## 1. Repository scope
